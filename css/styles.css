@@ -3,7 +3,7 @@ body {
     background-size: conver;
 }
 
-.font-color, .nav-link {
+.font-color, .nav-link, span {
     color: #5F002B !important;
 }
 
