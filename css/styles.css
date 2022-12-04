@@ -2,3 +2,11 @@ body {
     background-image: url("../assets/bgtexture.jpg");
     background-size: conver;
 }
+
+.nav-link {
+    color: #5F002B !important;
+}
+
+@media screen and (max-width: 991px) {
+    #muzzle-logo-width {width: 75%;}
+}
