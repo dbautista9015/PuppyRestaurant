@@ -3,8 +3,20 @@ body {
     background-size: conver;
 }
 
-.nav-link {
+.font-color, .nav-link {
     color: #5F002B !important;
+}
+
+#hero-image {
+    background-image: url("../assets/homeHero.jpg");
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 15%;
+    position: relative;
+    margin-left: 0px !important;
+    margin-bottom: 5rem;
 }
 
 @media screen and (max-width: 991px) {
