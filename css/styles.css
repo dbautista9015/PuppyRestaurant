@@ -19,6 +19,15 @@ body {
     margin-bottom: 5rem;
 }
 
+.photo-border {
+    border: #fff solid 10px;
+}
+
+.photo-padding {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+}
+
 @media screen and (max-width: 991px) {
     #muzzle-logo-width {width: 75%;}
 }
