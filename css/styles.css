@@ -19,6 +19,21 @@ body {
     margin-bottom: 5rem;
 }
 
+#catering-hero-image {
+    background-image: url("../assets/cateringHero.jpg");
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+.catering-hero-row {
+    margin-bottom: 3rem !important;
+}
+
 .photo-border {
     border: #fff solid 10px;
 }
