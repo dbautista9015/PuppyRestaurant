@@ -1,6 +1,5 @@
 body {
     background-image: url("../assets/bgtexture.jpg");
-    background-size: cover;
 }
 
 .font-color, .nav-link, span {
